@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color:rgb(41, 9, 220);
+    font-family: 'Fasthand', cursive;
+    font-size: xx-large;
+  }
+h2{
+    color:rgb(41, 9, 220);
+    font-family: 'Fasthand', cursive;
+}
+body{
+    background-color:beige;
+    font-family: 'Fasthand', cursive;
+    font-size: large;
+}
